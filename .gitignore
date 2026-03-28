@@ -1,3 +1,8 @@
+# Do not stage data
+raw_data/
+proc_data/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
